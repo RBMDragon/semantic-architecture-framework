@@ -1,0 +1,5 @@
+Artefakt: FrameworkVault_v1.0.zip
+Hash-type: SHA-256
+SHA-256: 1F3E6D635E772859C2E4E0A93024B283DD35816F95547B727206B56E84F4DC2D
+Dato: 2026-03-25
+Kommentar: Første fulde snapshot af Framework Obsidian Vault (Fase 0–19).
